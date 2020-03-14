@@ -1,0 +1,27 @@
+Python packages:
+requetsts
+re
+os
+sys
+unittest
+csv
+subprocess
+psutil
+
+linux commands:
+ls
+chmod
+nano 
+mv
+cp
+touch
+rsync
+grep
+sudo 
+sudo apt-get install
+
+Others:
+What is putty?
+what is ssh?
+what is qwikabs?
+qwiklabs with GCP?
