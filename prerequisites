@@ -1,5 +1,5 @@
 Python packages:
-requetsts
+requests
 re
 os
 sys
@@ -23,5 +23,5 @@ sudo apt-get install
 Others:
 What is putty?
 what is ssh?
-what is qwikabs?
+what is qwiklabs?
 qwiklabs with GCP?
